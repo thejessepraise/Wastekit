@@ -1,0 +1,2 @@
+import wastekit
+print(wastekit)
